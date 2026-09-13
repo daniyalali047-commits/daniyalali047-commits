@@ -1,6 +1,6 @@
 # Hey there! 👋
 
-Welcome to my GitHub profile! I'm a passionate **Backend Developer** focused on building robust APIs, scalable architectures, and secure systems. Currently on my learning journey to master backend development! 🚀
+Welcome to my GitHub profile! I'm a passionate **Backend Developer** focused on building robust APIs, scalable architectures, and secure systems. I'm constantly learning and exploring new technologies to create efficient, maintainable solutions.
 
 ## 🎯 About Me
 
@@ -51,17 +51,11 @@ A full-stack real-time communication platform demonstrating backend and frontend
 - ⚡ Building more **complex APIs** and microservices
 - 🎯 Improving system design and performance
 
-## 💡 What Drives Me
+## 📫 Let's Connect!
 
-I'm passionate about solving backend challenges and building systems that are:
-- **Performant** - Optimized for speed and efficiency
-- **Secure** - Protected against vulnerabilities
-- **Scalable** - Ready to grow with demand
-- **Maintainable** - Clean code that others can understand
+I'm always open to collaborating and discussing backend development. Reach out to me:
 
-## 📌 Let's Connect!
-
-I'm always open to:
+- 📧 **Email:** [daniyalali047@gmail.com](mailto:daniyalali047@gmail.com)
 - 💬 Discussing backend architecture and best practices
 - 🤝 Collaborating on exciting projects
 - 🌍 Learning from the developer community
