@@ -19,7 +19,7 @@ As a backend developer, I specialize in:
 - Writing clean, scalable **JavaScript** code
 - Creating interactive frontends with **React.js** to complement backend services
 
-## 🛠️ Tech Stack
+## ��️ Tech Stack
 
 **Languages:** JavaScript, Java  
 **Backend:** Node.js, Express.js, Socket.io  
@@ -51,17 +51,9 @@ A full-stack real-time communication platform demonstrating backend and frontend
 - ⚡ Building more **complex APIs** and microservices
 - 🎯 Improving system design and performance
 
-## 📫 Let's Connect!
-
-I'm always open to collaborating and discussing backend development. Reach out to me:
+## 📫 Get in Touch
 
 - 📧 **Email:** [daniyalali047@gmail.com](mailto:daniyalali047@gmail.com)
-- 💬 Discussing backend architecture and best practices
-- 🤝 Collaborating on exciting projects
-- 🌍 Learning from the developer community
-- 🚀 Contributing to open-source initiatives
-
-Feel free to explore my repositories and reach out for collaboration or just to chat about backend development!
 
 ---
 
