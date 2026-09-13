@@ -43,10 +43,6 @@ A full-stack real-time communication platform demonstrating backend and frontend
   - Live user presence
   - Clean, responsive UI
 
-## 📊 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=daniyalali047-commits&show_icons=true&theme=radical)
-
 ## 🌱 Currently Learning
 
 - 🔭 Deep-diving into **backend architecture patterns**
