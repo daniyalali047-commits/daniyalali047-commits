@@ -31,7 +31,7 @@ As a backend developer, I specialize in:
 
 ### [Random Password Generator](https://daniyalali047-commits.github.io/Random-Password-Generator/)
 A dynamic password generator application showcasing frontend interactivity and client-side logic.
-- **Tech:** JavaScript, React.js, HTML/CSS
+- **Tech:** HTML/CSS , JavaScript
 - **Features:** Customizable password generation with real-time updates
 
 ### [Real-Time Group Chat App](https://nexa-sage-seven.vercel.app/)
